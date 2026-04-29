@@ -14,13 +14,13 @@ ao pipeline de **GitHub Actions**.
 
 ## Tarefas Atendidas
 
-| # | Tarefa | Status |
-|---|--------|--------|
-| 1 | OWASP ZAP CLI no GitHub Actions — relatório HTML | ✅ |
-| 2 | Pipeline falha em vulnerabilidades High/Critical | ✅ |
-| 3 | Análise de alertas: total, severidade, tipos | ✅ |
-| 4 | Vulnerabilidade proposital (XSS no login) | ✅ |
-| 5 | Relatório salvo como artefato do GitHub Actions | ✅ |
+| # | Tarefa |
+|---|--------|
+| 1 | OWASP ZAP CLI no GitHub Actions — relatório HTML |
+| 2 | Pipeline falha em vulnerabilidades High/Critical |
+| 3 | Análise de alertas: total, severidade, tipos |
+| 4 | Vulnerabilidade proposital (XSS no login) |
+| 5 | Relatório salvo como artefato do GitHub Actions |
 
 ## Vulnerabilidades Inseridas
 
